@@ -36,3 +36,21 @@ for filename in fnmatch.filter(fiulenames, pattern):
                print("No files found.")
                else:
                print("the path does not exist. try again.")
+               
+               
+          def output_dirs(list_of_dirs):
+               
+               
+               for dirs in list_of_dirs;
+               print("dirname")
+               if os.path.exists(dirpath):
+               for root,dirname,in os.(filepath)
+               for dirname 
+               
+               
+               
+               
+               
+               
+               
+               
